@@ -1,0 +1,1 @@
+avrdude -P COM4 -b 19200 -c avrisp -p m328p -u -U flash:w:"C:\Users\ycaf\Documents\Atmel Studio\7.0\GccApplication1\GccApplication1\Debug\GccApplication1.hex":i
